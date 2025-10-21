@@ -31,3 +31,7 @@ The goal was to evaluate **line efficiency**, identify **key downtime drivers**,
 
 ---
 
+## 📊 Dashboard Preview
+![Wolf Cola Production Dashboard](visuals/dashboard-view.png)
+
+
